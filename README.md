@@ -2,7 +2,9 @@
 
 
 
-This project implements a complete machine learning pipeline designed to predict students' math scores using a modular approach. The workflow includes data collection, preprocessing, feature engineering, and model training. Several machine learning models are trained, followed by hyperparameter tuning to optimize their performance. The model that achieves the highest accuracy is selected for making predictions on new data. The approach emphasizes flexibility, allowing each step of the pipeline to be independently modified or improved as needed. The project demonstrates how to handle real-world datasets and build a robust machine learning solution from data ingestion to model evaluation.
+This project implements a complete machine learning pipeline designed to predict students' math scores using a modular approach. The workflow includes data collection, preprocessing, feature engineering, and model training. Several machine learning models are trained, followed by hyperparameter tuning to optimize their performance. The model that achieves the highest accuracy is selected for making predictions on new data. The approach emphasizes flexibility, allowing each step of the pipeline to be independently modified or improved as needed. The project demonstrates how to handle real-world datasets and build a robust machine learning solution from data ingestion to model evaluation. Also, the project includes a web interface created using Flask. By converting the machine learning pipeline into an API, users can input student data directly through a web form and receive predicted math scores in real-time, making the process accessible and interactive.
+
+
 
 The primary focus of this project is to build a flexible and reusable machine learning pipeline where each step, from data preprocessing to model evaluation, is organized in separate, independent modules. This approach ensures that the workflow can be easily extended, modified, or reused for similar tasks.
 
