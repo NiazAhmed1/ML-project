@@ -9,7 +9,7 @@ The primary focus of this project is to build a flexible and reusable machine le
 #### Dataset
 The dataset consists of several features related to student demographics and academic performance:
 
-gender: Gender of the student (male/female)
+gender: Gender of the student (male/female) /n
 race_ethnicity: Ethnic group of the student
 parental_level_of_education: Highest level of education achieved by the student's parent(s)
 lunch: Type of lunch received by the student (standard or free/reduced)
