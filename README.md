@@ -9,21 +9,22 @@ The primary focus of this project is to build a flexible and reusable machine le
 #### Dataset
 The dataset consists of several features related to student demographics and academic performance:
 
-gender: Gender of the student (male/female)
+1- gender: Gender of the student (male/female)
 
-race_ethnicity: Ethnic group of the student
+2- race_ethnicity: Ethnic group of the student
 
-parental_level_of_education: Highest level of education achieved by the student's parent(s)
+3- parental_level_of_education: Highest level of education achieved by the student's parent(s)
 
-lunch: Type of lunch received by the student (standard or free/reduced)
+4- lunch: Type of lunch received by the student (standard or free/reduced)
 
-test_preparation_course: Whether the student completed a test preparation course (none/completed)
+5- test_preparation_course: Whether the student completed a test preparation course (none/completed)
 
-reading_score: The student's reading test score
+6- reading_score: The student's reading test score
 
-writing_score: The student's writing test score
+7- writing_score: The student's writing test score
 
 
-The target variable to be predicted is:
 
+
+The target variable to be predicted is: 
 math_score: The student's math test score
